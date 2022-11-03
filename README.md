@@ -1,2 +1,3 @@
-# projeto_vlog_1
-Curso "Algoritmo e lógica I"
+# projeto CURSO ALG I
+
+### Curso Algoritmo e lógica I
