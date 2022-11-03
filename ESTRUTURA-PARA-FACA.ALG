@@ -1,22 +1,21 @@
 Algoritmo "estrutura-para-faca"
-// Disciplina   : [Linguagem e Lógica de Programação]
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Disciplina   : [Linguagem e Lï¿½gica de Programaï¿½ï¿½o] 
+// Descriï¿½ï¿½o   : Aqui vocï¿½ descreve o que o programa faz! (funï¿½ï¿½o)
 // Autor(a)    : malcolm felix
 // Data atual  : 01/11/2022
 Var
-// Seção de Declarações das variáveis 
+// Seï¿½ï¿½o de Declaraï¿½ï¿½es das variï¿½veis 
    numero, fatorial, contador: inteiro
 
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-   escreval("Digite o número para cálculo de fatorial: ")
+// Seï¿½ï¿½o de Comandos, procedimento, funï¿½ï¿½es, operadores, etc... 
+   escreval("Digite o nï¿½mero para cï¿½lculo de fatorial: ")
    leia(numero)
    fatorial := 1
    para contador de 1 ate numero faca
         fatorial := fatorial * contador
    fimpara
    
-   escreval("O fatorial de ", numero, " é : ", fatorial)
+   escreval("O fatorial de ", numero, " ï¿½ : ", fatorial)
 
 Fimalgoritmo
